@@ -1,0 +1,8 @@
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\bin\x86\Debug\PluckingFruits.exe
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\bin\x86\Debug\PluckingFruits.pdb
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\obj\x86\Debug\PluckingFruits.csprojResolveAssemblyReference.cache
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\obj\x86\Debug\PluckingFruits.exe
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\obj\x86\Debug\PluckingFruits.pdb
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\bin\x86\Debug\Content\NewOrange.xnb
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\PluckingFruits\PluckingFruits\PluckingFruits\bin\x86\Debug\Content\monky.xnb

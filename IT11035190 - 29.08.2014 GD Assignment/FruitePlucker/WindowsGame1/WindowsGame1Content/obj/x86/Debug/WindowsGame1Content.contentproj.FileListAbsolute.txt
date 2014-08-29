@@ -1,0 +1,3 @@
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\BreakingOut\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190BreakingOut\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Atapattu\Desktop\GD\XNA_lab02\IT11035190 - 29.08.2014 GD Assignment\IT11035190BreakingOut\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
